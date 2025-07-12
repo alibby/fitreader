@@ -1,4 +1,3 @@
-require 'ostruct'
 class FitObject
   include Unpack
 
